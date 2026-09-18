@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌳 CODINGNAMU
+# 🌳 CODINGNAMU 🌳
 
 ### 🙋🏻‍♀️ 멤버
 
